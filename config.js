@@ -1,0 +1,1 @@
+window.MAKER_CONFIG={url:'https://xbsddqooxzrsbjyeiuiw.supabase.co',anonKey:'sb_publishable_eUvoSXG7XoRJblLxjQSJBQ_AfnfVHc0'};
